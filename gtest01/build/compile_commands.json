@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/my_tests.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\my_tests.dir\\test\\test_example.cpp.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\test\\test_example.cpp",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/test/test_example.cpp",
+  "output": "CMakeFiles/my_tests.dir/test/test_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/operations.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\operations.dir\\src\\operations.cpp.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\src\\operations.cpp",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/src/operations.cpp",
+  "output": "CMakeFiles/operations.dir/src/operations.cpp.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/logger.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\logger.dir\\logger\\src\\log.cpp.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\logger\\src\\log.cpp",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/logger/src/log.cpp",
+  "output": "CMakeFiles/logger.dir/logger/src/log.cpp.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/HelloAppBinary.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\HelloAppBinary.dir\\main.cpp.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\main.cpp",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/main.cpp",
+  "output": "CMakeFiles/HelloAppBinary.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/HelloAppBinary.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\HelloAppBinary.dir\\src\\dog.cpp.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\src\\dog.cpp",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/src/dog.cpp",
+  "output": "CMakeFiles/HelloAppBinary.dir/src/dog.cpp.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googlemock",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googlemock",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googletest",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest01\\source\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/source/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]
