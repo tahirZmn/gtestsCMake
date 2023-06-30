@@ -1,0 +1,17 @@
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/CMakeFiles/my_tests.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/CMakeFiles/operations.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/CMakeFiles/logger.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/CMakeFiles/HelloAppBinary.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/CMakeFiles/ALL_BUILD.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googlemock/CMakeFiles/gmock.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googlemock/CMakeFiles/gmock_main.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googlemock/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googletest/CMakeFiles/gtest.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googletest/CMakeFiles/gtest_main.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googletest/CMakeFiles/INSTALL.dir
+C:/Users/t.zaman/Desktop/workspace/gtest/gtest01/build/googletest/googletest/CMakeFiles/ALL_BUILD.dir
