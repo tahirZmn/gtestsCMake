@@ -7,7 +7,7 @@ int add(int a, int b) {
 
 // Example test case
 TEST(ExampleTest, Addition) {
-    EXPECT_EQ(add(1, 2), 4);
+    EXPECT_EQ(add(2, 2), 4);
 }
 
 // Run all the tests

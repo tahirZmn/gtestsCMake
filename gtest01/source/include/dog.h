@@ -12,7 +12,9 @@ public:
     ~Dog();
     
     std::string get_name() const{
+        
         return dog_name;
+
     }
     
     void set_dog_name(const std::string & name){

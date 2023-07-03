@@ -16,17 +16,13 @@ include_directories(${gtest_SOURCE_DIR}/include)
 add_executable(my_tests test/test_example.cpp)  
 target_link_libraries(my_tests PRIVATE gtest_main)
 
-
-
 # TARGET _ 1 
 add_library(operations STATIC src/operations.cpp)                                     #creating a static library from operations.cpp file. name of the library: operations
 target_include_directories(operations PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)     #providing the address of the header files to be included
 
-
 #TARGET _ 2
 add_library(logger STATIC logger/src/log.cpp)                                         #creating a static library -> logger
 target_include_directories(logger PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/logger/include)  # including heading files for this library
-
 
 #TARGET _ 3
 add_executable(HelloAppBinary 

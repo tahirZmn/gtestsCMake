@@ -23,6 +23,12 @@
 			"id" : "HelloAppBinary::@6890427a1f51a3e7e1df"
 		},
 		{
+			"id" : "my_tests::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "operations::@6890427a1f51a3e7e1df"
+		},
+		{
 			"id" : "gtest::@f95b5c00bd49b3b4698d"
 		},
 		{
@@ -36,12 +42,6 @@
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
-		},
-		{
-			"id" : "my_tests::@6890427a1f51a3e7e1df"
-		},
-		{
-			"id" : "operations::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",

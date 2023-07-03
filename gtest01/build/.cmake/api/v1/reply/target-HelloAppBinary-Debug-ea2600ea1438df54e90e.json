@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "RelWithDebInfo/HelloAppBinary.exe"
+			"path" : "Debug/HelloAppBinary.exe"
 		},
 		{
-			"path" : "RelWithDebInfo/HelloAppBinary.pdb"
+			"path" : "Debug/HelloAppBinary.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -31,13 +31,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 32,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 38,
+				"line" : 34,
 				"parent" : 0
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 37,
+				"line" : 33,
 				"parent" : 0
 			},
 			{
@@ -69,7 +69,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -std:c++20 -MD"
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd"
 				}
 			],
 			"includes" : 
@@ -117,6 +117,10 @@
 		},
 		{
 			"backtrace" : 2,
+			"id" : "operations::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
 			"id" : "gtest::@f95b5c00bd49b3b4698d"
 		},
 		{
@@ -125,10 +129,6 @@
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "operations::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "HelloAppBinary::@6890427a1f51a3e7e1df",
@@ -137,7 +137,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /O2 /Ob1 /DNDEBUG -MD",
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd",
 				"role" : "flags"
 			},
 			{
@@ -146,22 +146,22 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "RelWithDebInfo\\operations.lib",
+				"fragment" : "Debug\\operations.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "RelWithDebInfo\\logger.lib",
+				"fragment" : "Debug\\logger.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "lib\\RelWithDebInfo\\gtest_main.lib",
+				"fragment" : "lib\\Debug\\gtest_main.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "lib\\RelWithDebInfo\\gtest.lib",
+				"fragment" : "lib\\Debug\\gtest.lib",
 				"role" : "libraries"
 			},
 			{
