@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\t.zaman\Desktop\workspace\gtest\gtest02\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\t.zaman\Desktop\workspace\gtest\gtest02\source\src\classic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\t.zaman\Desktop\workspace\gtest\gtest02\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BB6C2ABF-8715-357B-B26D-184DC2706017}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

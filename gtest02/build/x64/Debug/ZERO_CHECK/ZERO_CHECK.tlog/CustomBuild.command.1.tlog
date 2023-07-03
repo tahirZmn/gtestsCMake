@@ -1,0 +1,10 @@
+^C:\USERS\T.ZAMAN\DESKTOP\WORKSPACE\GTEST\GTEST02\BUILD\CMAKEFILES\D437B4CF6290B40FF04FC71581731449\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source -BC:/Users/t.zaman/Desktop/workspace/gtest/gtest02/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/build/HelloApp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
