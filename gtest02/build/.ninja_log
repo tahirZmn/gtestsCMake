@@ -1,0 +1,20 @@
+# ninja log v5
+20	1623	7101655350022513	CMakeFiles/my_tests.dir/src/classic.cpp.obj	9f37e1413f167371
+86	1639	7101655350002302	CMakeFiles/HelloAppBinary.dir/src/strings.cpp.obj	4d84decf06fe1ec3
+33	1663	7101655350122926	CMakeFiles/my_tests.dir/src/strings.cpp.obj	6c2c4c712113a6fa
+66	1683	7101655350323897	CMakeFiles/HelloAppBinary.dir/src/classic.cpp.obj	6fb5a9dc43c71d5a
+49	1685	7101655350424391	CMakeFiles/HelloAppBinary.dir/main.cpp.obj	c7f8065e933da294
+9	2215	7101655356154043	CMakeFiles/my_tests.dir/test/tests.cpp.obj	6e4edc2c94c1d00e
+162	3361	7101655367488945	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	c6e5f8e1f0d6dc21
+133	3421	7101655368212366	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	d9cfbca604ecdb5d
+1663	3466	7101655368715028	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	1aee3f038d272d17
+1626	3602	7101655370021333	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	1dd0642b452f1257
+148	4254	7101655376574283	googletest/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	124f6e71d57fc5bf
+104	4298	7101655376956242	googletest/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	9adf5d0510f01f71
+4255	4451	7101655378384725	lib/gmock_main.lib	49801d6cfbc9ef9e
+4299	4505	7101655378762234	lib/gmock.lib	92f2bdd6b41c2575
+1640	5178	7101655385820127	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	dc05d969370abc52
+5178	5312	7101655387044367	lib/gtest.lib	3342e02445246938
+5313	5407	7101655388203283	lib/gtest_main.lib	dd5e59a4b4bbae76
+5417	6279	7101655396532423	HelloAppBinary.exe	585a044e3d54908e
+5408	6687	7101655400543096	my_tests.exe	f5d2c1ddd5cb862

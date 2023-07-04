@@ -1,5 +1,7 @@
 #include <gtest/gtest.h>
 #include "classic.h"
+#include "strings.h"
+
 
 TEST (ClassicTests , facts){
     
@@ -8,6 +10,12 @@ TEST (ClassicTests , facts){
 
 TEST(ClassicTests , bol){
   ASSERT_TRUE(compare(5,5));
+}
+TEST(ClassicTests , strcmpr){
+  //std::string str1 {"tahir"};
+  //std::string str2 {"tahir"};
+  EXPECT_TRUE(strcmpr("tahir","tahir"));
+  EXPECT_FALSE(strcmpr("tahir","tahir"));
 }
 
 

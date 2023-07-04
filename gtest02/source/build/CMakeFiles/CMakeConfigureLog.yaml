@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.6.3+07e294721 for .NET Framework
-      Build started 7/3/2023 5:12:36 PM.
+      Build started 7/4/2023 11:04:47 AM.
       
       Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\3.26.4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -51,7 +51,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.58
+      Time Elapsed 00:00:01.73
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -70,8 +70,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-ymhgnt"
-      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-ymhgnt"
+      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-1mmcdh"
+      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-1mmcdh"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -79,37 +79,37 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-ymhgnt
+        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-1mmcdh
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ff623.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
-        Build started 7/3/2023 5:12:38 PM.
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c2f0b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
+        Build started 7/4/2023 11:04:49 AM.
         
-        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ymhgnt\\cmTC_ff623.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1mmcdh\\cmTC_c2f0b.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_ff623.dir\\Debug\\".
-          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ymhgnt\\Debug\\".
-          Creating directory "cmTC_ff623.dir\\Debug\\cmTC_ff623.tlog\\".
+          Creating directory "cmTC_c2f0b.dir\\Debug\\".
+          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1mmcdh\\Debug\\".
+          Creating directory "cmTC_c2f0b.dir\\Debug\\cmTC_c2f0b.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_ff623.dir\\Debug\\cmTC_ff623.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_c2f0b.dir\\Debug\\cmTC_c2f0b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ff623.dir\\Debug\\\\" /Fd"cmTC_ff623.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c2f0b.dir\\Debug\\\\" /Fd"cmTC_c2f0b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32535 for x64
           CMakeCXXCompilerABI.cpp
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ff623.dir\\Debug\\\\" /Fd"cmTC_ff623.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c2f0b.dir\\Debug\\\\" /Fd"cmTC_c2f0b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ymhgnt\\Debug\\cmTC_ff623.exe" /INCREMENTAL /ILK:"cmTC_ff623.dir\\Debug\\cmTC_ff623.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-ymhgnt/Debug/cmTC_ff623.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-ymhgnt/Debug/cmTC_ff623.lib" /MACHINE:X64  /machine:x64 cmTC_ff623.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_ff623.vcxproj -> C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ymhgnt\\Debug\\cmTC_ff623.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1mmcdh\\Debug\\cmTC_c2f0b.exe" /INCREMENTAL /ILK:"cmTC_c2f0b.dir\\Debug\\cmTC_c2f0b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-1mmcdh/Debug/cmTC_c2f0b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-1mmcdh/Debug/cmTC_c2f0b.lib" /MACHINE:X64  /machine:x64 cmTC_c2f0b.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_c2f0b.vcxproj -> C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1mmcdh\\Debug\\cmTC_c2f0b.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_ff623.dir\\Debug\\cmTC_ff623.tlog\\unsuccessfulbuild".
-          Touching "cmTC_ff623.dir\\Debug\\cmTC_ff623.tlog\\cmTC_ff623.lastbuildstate".
-        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ymhgnt\\cmTC_ff623.vcxproj" (default targets).
+          Deleting file "cmTC_c2f0b.dir\\Debug\\cmTC_c2f0b.tlog\\unsuccessfulbuild".
+          Touching "cmTC_c2f0b.dir\\Debug\\cmTC_c2f0b.tlog\\cmTC_c2f0b.lastbuildstate".
+        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1mmcdh\\cmTC_c2f0b.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.36
+        Time Elapsed 00:00:01.35
         
       exitCode: 0
   -
@@ -128,7 +128,7 @@ events:
       The output was:
       0
       MSBuild version 17.6.3+07e294721 for .NET Framework
-      Build started 7/3/2023 5:12:40 PM.
+      Build started 7/4/2023 11:04:51 AM.
       
       Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\3.26.4\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -155,7 +155,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.36
+      Time Elapsed 00:00:01.31
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -174,8 +174,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-eir8wh"
-      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-eir8wh"
+      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-n6bxfd"
+      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-n6bxfd"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -183,37 +183,37 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-eir8wh
+        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-n6bxfd
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e5a10.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
-        Build started 7/3/2023 5:12:41 PM.
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_42864.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
+        Build started 7/4/2023 11:04:53 AM.
         
-        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eir8wh\\cmTC_e5a10.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n6bxfd\\cmTC_42864.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_e5a10.dir\\Debug\\".
-          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eir8wh\\Debug\\".
-          Creating directory "cmTC_e5a10.dir\\Debug\\cmTC_e5a10.tlog\\".
+          Creating directory "cmTC_42864.dir\\Debug\\".
+          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n6bxfd\\Debug\\".
+          Creating directory "cmTC_42864.dir\\Debug\\cmTC_42864.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_e5a10.dir\\Debug\\cmTC_e5a10.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_42864.dir\\Debug\\cmTC_42864.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e5a10.dir\\Debug\\\\" /Fd"cmTC_e5a10.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42864.dir\\Debug\\\\" /Fd"cmTC_42864.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32535 for x64
           CMakeCCompilerABI.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e5a10.dir\\Debug\\\\" /Fd"cmTC_e5a10.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42864.dir\\Debug\\\\" /Fd"cmTC_42864.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eir8wh\\Debug\\cmTC_e5a10.exe" /INCREMENTAL /ILK:"cmTC_e5a10.dir\\Debug\\cmTC_e5a10.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-eir8wh/Debug/cmTC_e5a10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-eir8wh/Debug/cmTC_e5a10.lib" /MACHINE:X64  /machine:x64 cmTC_e5a10.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_e5a10.vcxproj -> C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eir8wh\\Debug\\cmTC_e5a10.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n6bxfd\\Debug\\cmTC_42864.exe" /INCREMENTAL /ILK:"cmTC_42864.dir\\Debug\\cmTC_42864.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-n6bxfd/Debug/cmTC_42864.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-n6bxfd/Debug/cmTC_42864.lib" /MACHINE:X64  /machine:x64 cmTC_42864.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_42864.vcxproj -> C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n6bxfd\\Debug\\cmTC_42864.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_e5a10.dir\\Debug\\cmTC_e5a10.tlog\\unsuccessfulbuild".
-          Touching "cmTC_e5a10.dir\\Debug\\cmTC_e5a10.tlog\\cmTC_e5a10.lastbuildstate".
-        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eir8wh\\cmTC_e5a10.vcxproj" (default targets).
+          Deleting file "cmTC_42864.dir\\Debug\\cmTC_42864.tlog\\unsuccessfulbuild".
+          Touching "cmTC_42864.dir\\Debug\\cmTC_42864.tlog\\cmTC_42864.lastbuildstate".
+        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-n6bxfd\\cmTC_42864.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.45
+        Time Elapsed 00:00:01.26
         
       exitCode: 0
   -
@@ -228,8 +228,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-mizo7q"
-      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-mizo7q"
+      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-25jig7"
+      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-25jig7"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -237,37 +237,37 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-mizo7q
+        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-25jig7
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c00f2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
-        Build started 7/3/2023 5:12:45 PM.
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ad095.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
+        Build started 7/4/2023 11:04:56 AM.
         
-        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\cmTC_c00f2.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\cmTC_ad095.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_c00f2.dir\\Debug\\".
-          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\Debug\\".
-          Creating directory "cmTC_c00f2.dir\\Debug\\cmTC_c00f2.tlog\\".
+          Creating directory "cmTC_ad095.dir\\Debug\\".
+          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\Debug\\".
+          Creating directory "cmTC_ad095.dir\\Debug\\cmTC_ad095.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_c00f2.dir\\Debug\\cmTC_c00f2.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_ad095.dir\\Debug\\cmTC_ad095.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c00f2.dir\\Debug\\\\" /Fd"cmTC_c00f2.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ad095.dir\\Debug\\\\" /Fd"cmTC_ad095.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\src.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32535 for x64
           src.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c00f2.dir\\Debug\\\\" /Fd"cmTC_c00f2.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\src.c"
-        C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\src.c(1,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\cmTC_c00f2.vcxproj]
-        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\cmTC_c00f2.vcxproj" (default targets) -- FAILED.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ad095.dir\\Debug\\\\" /Fd"cmTC_ad095.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\src.c"
+        C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\src.c(1,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\cmTC_ad095.vcxproj]
+        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\cmTC_ad095.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\cmTC_c00f2.vcxproj" (default target) (1) ->
+        "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\cmTC_ad095.vcxproj" (default target) (1) ->
         (ClCompile target) -> 
-          C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\src.c(1,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mizo7q\\cmTC_c00f2.vcxproj]
+          C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\src.c(1,10): fatal  error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-25jig7\\cmTC_ad095.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:00.74
+        Time Elapsed 00:00:00.77
         
       exitCode: 1
   -
@@ -281,8 +281,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-2rv8n8"
-      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-2rv8n8"
+      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-m8awjq"
+      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-m8awjq"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -290,39 +290,39 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-2rv8n8
+        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-m8awjq
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_f5169.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
-        Build started 7/3/2023 5:12:46 PM.
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ab582.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
+        Build started 7/4/2023 11:04:57 AM.
         
-        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\cmTC_f5169.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\cmTC_ab582.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_f5169.dir\\Debug\\".
-          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\Debug\\".
-          Creating directory "cmTC_f5169.dir\\Debug\\cmTC_f5169.tlog\\".
+          Creating directory "cmTC_ab582.dir\\Debug\\".
+          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\Debug\\".
+          Creating directory "cmTC_ab582.dir\\Debug\\cmTC_ab582.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_f5169.dir\\Debug\\cmTC_f5169.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_ab582.dir\\Debug\\cmTC_ab582.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f5169.dir\\Debug\\\\" /Fd"cmTC_f5169.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ab582.dir\\Debug\\\\" /Fd"cmTC_ab582.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32535 for x64
           CheckFunctionExists.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f5169.dir\\Debug\\\\" /Fd"cmTC_f5169.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ab582.dir\\Debug\\\\" /Fd"cmTC_ab582.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\CheckFunctionExists.c"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\Debug\\cmTC_f5169.exe" /INCREMENTAL /ILK:"cmTC_f5169.dir\\Debug\\cmTC_f5169.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-2rv8n8/Debug/cmTC_f5169.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-2rv8n8/Debug/cmTC_f5169.lib" /MACHINE:X64  /machine:x64 cmTC_f5169.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\cmTC_f5169.vcxproj]
-        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\cmTC_f5169.vcxproj" (default targets) -- FAILED.
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\Debug\\cmTC_ab582.exe" /INCREMENTAL /ILK:"cmTC_ab582.dir\\Debug\\cmTC_ab582.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-m8awjq/Debug/cmTC_ab582.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-m8awjq/Debug/cmTC_ab582.lib" /MACHINE:X64  /machine:x64 cmTC_ab582.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\cmTC_ab582.vcxproj]
+        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\cmTC_ab582.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\cmTC_f5169.vcxproj" (default target) (1) ->
+        "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\cmTC_ab582.vcxproj" (default target) (1) ->
         (Link target) -> 
-          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-2rv8n8\\cmTC_f5169.vcxproj]
+          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-m8awjq\\cmTC_ab582.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:00.95
+        Time Elapsed 00:00:00.93
         
       exitCode: 1
   -
@@ -336,8 +336,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-i8zobl"
-      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-i8zobl"
+      source: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-kag39u"
+      binary: "C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-kag39u"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -345,39 +345,39 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-i8zobl
+        Change Dir: C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-kag39u
         
-        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b0deb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
-        Build started 7/3/2023 5:12:47 PM.
+        Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b796e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n && MSBuild version 17.6.3+07e294721 for .NET Framework
+        Build started 7/4/2023 11:04:58 AM.
         
-        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\cmTC_b0deb.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\cmTC_b796e.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_b0deb.dir\\Debug\\".
-          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\Debug\\".
-          Creating directory "cmTC_b0deb.dir\\Debug\\cmTC_b0deb.tlog\\".
+          Creating directory "cmTC_b796e.dir\\Debug\\".
+          Creating directory "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\Debug\\".
+          Creating directory "cmTC_b796e.dir\\Debug\\cmTC_b796e.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_b0deb.dir\\Debug\\cmTC_b0deb.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Creating "cmTC_b796e.dir\\Debug\\cmTC_b796e.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b0deb.dir\\Debug\\\\" /Fd"cmTC_b0deb.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b796e.dir\\Debug\\\\" /Fd"cmTC_b796e.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32535 for x64
           CheckFunctionExists.c
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b0deb.dir\\Debug\\\\" /Fd"cmTC_b0deb.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b796e.dir\\Debug\\\\" /Fd"cmTC_b796e.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\CheckFunctionExists.c"
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\Debug\\cmTC_b0deb.exe" /INCREMENTAL /ILK:"cmTC_b0deb.dir\\Debug\\cmTC_b0deb.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-i8zobl/Debug/cmTC_b0deb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-i8zobl/Debug/cmTC_b0deb.lib" /MACHINE:X64  /machine:x64 cmTC_b0deb.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\cmTC_b0deb.vcxproj]
-        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\cmTC_b0deb.vcxproj" (default targets) -- FAILED.
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\Debug\\cmTC_b796e.exe" /INCREMENTAL /ILK:"cmTC_b796e.dir\\Debug\\cmTC_b796e.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-kag39u/Debug/cmTC_b796e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/t.zaman/Desktop/workspace/gtest/gtest02/source/build/CMakeFiles/CMakeScratch/TryCompile-kag39u/Debug/cmTC_b796e.lib" /MACHINE:X64  /machine:x64 cmTC_b796e.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\cmTC_b796e.vcxproj]
+        Done Building Project "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\cmTC_b796e.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\cmTC_b0deb.vcxproj" (default target) (1) ->
+        "C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\cmTC_b796e.vcxproj" (default target) (1) ->
         (Link target) -> 
-          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-i8zobl\\cmTC_b0deb.vcxproj]
+          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\t.zaman\\Desktop\\workspace\\gtest\\gtest02\\source\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kag39u\\cmTC_b796e.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:00.93
+        Time Elapsed 00:00:00.97
         
       exitCode: 1
 ...

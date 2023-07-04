@@ -7,6 +7,9 @@
     <ClCompile Include="C:\Users\t.zaman\Desktop\workspace\gtest\gtest02\source\src\classic.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\t.zaman\Desktop\workspace\gtest\gtest02\source\src\strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\t.zaman\Desktop\workspace\gtest\gtest02\source\CMakeLists.txt" />

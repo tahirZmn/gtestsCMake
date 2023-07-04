@@ -160,7 +160,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 CMAKE_MT:FILEPATH=C:/Program Files (x86)/Windows Kits/10/bin/10.0.22000.0/x64/mt.exe
 
 //Value Computed by CMake
-CMAKE_PROJECT_DESCRIPTION:STATIC=The leading Hello World App
+CMAKE_PROJECT_DESCRIPTION:STATIC=Implementing gtests on classic problems
 
 //Value Computed by CMake
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
